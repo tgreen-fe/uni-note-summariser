@@ -1,0 +1,607 @@
+Acid-base abnormality
+
+Acne vulgaris
+
+Acoustic neuroma
+
+Acute bronchitis
+
+Acute cholangitis
+
+Acute coronary syndromes
+
+Acute glaucoma
+
+Acute kidney injury
+
+Acute pancreatitis
+
+Acute stress reaction
+
+Addison’s disease
+
+Adverse drug effects
+
+Alcoholic hepatitis
+
+Allergic disorder
+
+Anaemia
+
+Anal fissure
+
+Anaphylaxis
+
+Aneurysms, ischaemic limb and occlusions
+
+Ankylosing spondylitis
+
+Anxiety disorder: generalised
+
+Anxiety disorder: post-traumatic stress disorder
+
+Anxiety, phobias, OCD
+
+Aortic aneurysm
+
+Aortic dissection
+
+Aortic valve disease
+
+Appendicitis
+
+Arrhythmias
+
+Arterial thrombosis
+
+Arterial ulcers
+
+Asbestos-related lung disease
+
+Ascites
+
+Asthma
+
+Asthma COPD overlap syndrome
+
+Atopic dermatitis and eczema
+
+Atrophic vaginitis
+
+Attention deficit hyperactivity disorder
+
+Autism spectrum disorder
+
+Bacterial vaginosis
+
+Basal cell carcinoma
+
+Bell’s palsy
+
+Benign eyelid disorders
+
+Benign paroxysmal positional vertigo
+
+Benign prostatic hyperplasia
+
+Biliary atresia
+
+Bipolar affective disorder
+
+Bladder cancer
+
+Blepharitis
+
+Brain abscess
+
+Brain metastases
+
+Breast abscess/ mastitis
+
+Breast cancer
+
+Breast cysts
+
+Bronchiectasis
+
+Bronchiolitis
+
+Bursitis
+
+Candidiasis
+
+Cardiac arrest
+
+Cardiac failure
+
+Cataracts
+
+Cellulitis
+
+Central retinal arterial occlusion
+
+Cerebral palsy and hypoxic-ischaemic encephalopathy
+
+Cervical cancer
+
+Cervical screening (HPV)
+
+Chlamydia
+
+Cholecystitis
+
+Chronic fatigue syndrome
+
+Chronic glaucoma
+
+Chronic kidney disease
+
+Chronic obstructive pulmonary disease
+
+Cirrhosis
+
+Coeliac disease
+
+Colorectal tumours
+
+Compartment syndrome
+
+Conjunctivitis
+
+Constipation
+
+Contact dermatitis
+
+Cord prolapse
+
+Covid-19
+
+Croup
+
+Crystal arthropathy
+
+Cushing’s syndrome
+
+Cutaneous fungal infection
+
+Cutaneous warts
+
+Cystic fibrosis
+
+Deep vein thrombosis
+
+Dehydration
+
+Delirium
+
+Dementias
+
+Depression
+
+Developmental delay
+
+Diabetes in pregnancy (gestational and pre-existing)
+
+Diabetes insipidus
+
+Diabetes mellitus 
+
+Diabetic eye disease
+
+Diabetic ketoacidosis
+
+Diabetic nephropathy
+
+Diabetic neuropathy
+
+Disease prevention/screening
+
+Disseminated intravascular coagulation
+
+Diverticular disease
+
+Down’s syndrome
+
+Drug overdose
+
+Eating disorders
+
+Ectopic pregnancy
+
+Encephalitis
+
+Endometrial cancer
+
+Endometriosis
+
+Epididymitis and orchitis
+
+Epiglottitis
+
+Epilepsy
+
+Epistaxis
+
+Essential or secondary hypertension
+
+Essential tremor
+
+Extradural haemorrhage
+
+Febrile convulsion
+
+Fibroadenoma
+
+Fibroids
+
+Fibromyalgia
+
+Fibrotic lung disease
+
+Folliculitis
+
+Gallstones and biliary colic
+
+Gangrene
+
+Gastric cancer
+
+Gastrointestinal perforation
+
+GORD
+
+Gonorrhoea
+
+Haemochromatosis
+
+Haemoglobinopathies
+
+Haemophilia
+
+Haemorrhoids
+
+Henoch-Schonlein purpura
+
+Hepatitis
+
+Hernias
+
+Herpes simplex virus
+
+Hospital acquired infections
+
+Human immunodeficiency virus
+
+Human papilloma virus infection
+
+Hypercalcaemia of malignancy
+
+Hyperlipidemia
+
+Hyperosmolar hyperglycaemic state
+
+Hyperparathyroidism
+
+Hyperthermia and hypothermia
+
+Hypoglycaemia
+
+Hypoparathyroidism
+
+Hyposplenism/splenectomy
+
+Hypothyroidism
+
+Idiopathic arthritis
+
+Impetigo
+
+Infectious colitis
+
+Infectious diarrhoea
+
+Infectious mononucleosis
+
+Infective endocarditis
+
+Infective keratitis
+
+Inflammatory bowel disease
+
+Influenza
+
+Intestinal ischaemia
+
+Intestinal obstruction and ileus
+
+Intussusception
+
+Iritis
+
+Irritable bowel syndrome
+
+Ischaemic heart disease
+
+Kawasaki disease
+
+Leukaemia
+
+Liver failure
+
+Lower limb fractures
+
+Lower limb soft tissue injury
+
+Lower respiratory tract infection
+
+Lung cancer
+
+Lyme disease
+
+Lymphoma
+
+Macular degeneration
+
+Malabsorption
+
+Malaria
+
+Malignant melanoma
+
+Malnutrition
+
+Measles
+
+Ménière’s disease
+
+Meningitis
+
+Menopause
+
+Mesenteric adenitis
+
+Migraine
+
+Motor neurone disease
+
+Multi-organ dysfunction syndrome
+
+Multiple myeloma
+
+Multiple sclerosis
+
+Mumps
+
+Myasthenia gravis
+
+Myeloproliferative disorders
+
+Myocardial infarction
+
+Myocarditis
+
+Necrotising enterocolitis
+
+Necrotising fasciitis
+
+Nephrotic syndrome
+
+Non-accidental injury
+
+Notifiable diseases
+
+Obesity and pregnancy
+
+Obstructive sleep apnoea
+
+Occupational lung disease
+
+Oesophageal cancer
+
+Optic neuritis
+
+Osteoarthritis
+
+Osteomyelitis
+
+Osteoporosis
+
+Otitis externa
+
+Otitis media
+
+Ovarian cancer
+
+Pancreatic cancer
+
+Pancytopenia
+
+Parkinson’s disease
+
+Pathological fracture
+
+Patient on anti-coagulant therapy
+
+Patient on anti-platelet therapy
+
+Pelvic inflammatory disease
+
+Peptic ulcer disease and gastritis
+
+Perianal abscesses and fistulae
+
+Pericardial disease
+
+Periorbital and orbital cellulitis
+
+Peripheral nerve injuries/palsies
+
+Peripheral vascular disease
+
+Peritonitis
+
+Personality disorder
+
+Pituitary tumours
+
+Placenta praevia
+
+Placental abruption
+
+Pneumonia
+
+Pneumothorax
+
+Polycythaemia
+
+Polymyalgia rheumatica
+
+Postpartum haemorrhage
+
+Pre-eclampsia, gestational hypertension
+
+Pressure sores
+
+Prostate cancer
+
+Psoriasis
+
+Pulmonary embolism
+
+Pulmonary hypertension
+
+Pyloric stenosis
+
+Radiculopathies
+
+Raised intracranial pressure
+
+Reactive arthritis
+
+Respiratory arrest
+
+Respiratory failure
+
+Retinal detachment
+
+Rheumatoid arthritis
+
+Rhinosinusitis
+
+Right heart valve disease
+
+Rubella
+
+Sarcoidosis
+
+Scabies
+
+Schizophrenia
+
+Scleritis
+
+Self-harm
+
+Sepsis
+
+Septic arthritis
+
+Sickle cell disease
+
+Somatisation
+
+Spinal cord compression
+
+Spinal cord injury
+
+Spinal fracture
+
+Squamous cell carcinoma
+
+Stroke
+
+Subarachnoid haemorrhage
+
+Subdural haemorrhage
+
+Substance use disorder
+
+Surgical site infection
+
+Syphilis
+
+Systemic lupus erythematosus
+
+Tension headache
+
+Termination of pregnancy
+
+Testicular cancer
+
+Testicular torsion
+
+Thyroid eye disease
+
+Thyroid nodules
+
+Thyrotoxicosis
+
+Tonsillitis
+
+Toxic shock syndrome
+
+Transfusion reactions
+
+Transient ischaemic attacks
+
+Trichomonas vaginalis
+
+Trigeminal neuralgia
+
+Tuberculosis
+
+Unstable angina
+
+Upper limb fractures
+
+Upper limb soft tissue injury
+
+Upper respiratory tract infection
+
+Urinary incontinence
+
+Urinary tract calculi
+
+Urinary tract infection
+
+Urticaria
+
+Uveitis
+
+Varicella zoster
+
+Varicose veins
+
+Vasa praevia
+
+Vasovagal syncope
+
+Venous ulcers
+
+Viral exanthema
+
+Viral gastroenteritis
+
+Viral hepatitides
+
+Visual field defects
+
+Vitamin B12 and/or folate deficiency
+
+Volvulus
+
+VTE in pregnancy and puerperium
+
+Wernicke’s encephalopathy
+
+Whooping cough
